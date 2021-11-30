@@ -1,10 +1,11 @@
 <template>
   <div>
-    <button class="ka-button">按钮</button>
+    <h1>KaCard</h1>
   </div>
 </template>
 <script>
 export default {
-  name: 'ka-button',
+  name: 'KaCard',
 };
 </script>
+<style lang="scss" scoped></style>
