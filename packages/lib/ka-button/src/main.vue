@@ -1,10 +1,10 @@
 <!-- ka-button.vue -->
 <template>
-  <span class="ka-button">
+  <div class="ka-button">
     <button :class="[type, disabled ? 'disabled' : '']" :disabled="disabled">
       <slot></slot>
     </button>
-  </span>
+  </div>
 </template>
 
 <script>
@@ -33,10 +33,8 @@ $wColor: orange;
 $dColor: red;
 $disabledColor: gray;
 .ka-button {
-  display: inline-block;
   margin-right: 10px;
   button {
-    display: inline-block;
     padding: 10px 20px;
     border: 2px solid $pColor;
     background: #fff;

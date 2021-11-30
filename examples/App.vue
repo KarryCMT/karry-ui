@@ -1,5 +1,6 @@
 <template>
   <div id="app">
-    <router-view/>
+    <KaCard summary="这是卡片组件" />
+    <router-view />
   </div>
 </template>

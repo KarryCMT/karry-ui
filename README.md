@@ -1,24 +1,12 @@
-# karry
+# KarryUI
 
-## Project setup
+## 安装
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+npm install karry-ui --save
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## 使用
 
-### Lints and fixes files
 ```
-npm run lint
+npm install karry-ui --save
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
