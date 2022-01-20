@@ -28,7 +28,7 @@ export default {
 
 <style lang="scss">
 $pColor: #333;
-$sColor: #0db677;
+$sColor: #4acc9c;
 $wColor: orange;
 $dColor: red;
 $disabledColor: gray;
